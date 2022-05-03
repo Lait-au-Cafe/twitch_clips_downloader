@@ -1,0 +1,9 @@
+{
+    "auth": {
+        "app_id": "",
+        "app_secret": ""
+    },
+    "cache": {
+        "twitch_id": ""
+    }
+}
