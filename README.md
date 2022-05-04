@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 GUIを起動
 
 ```
-python main.py
+$ python main.py
 ```
 
 <p>①対象とするTwitchチャンネルのIDを入力</p>
